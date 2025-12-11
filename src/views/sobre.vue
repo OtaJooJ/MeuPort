@@ -1,7 +1,7 @@
 <template>
   <section class="sobre">
     <h1>Sobre mim</h1>
-    <p class="lead">Sou um dev interessado em construir interfaces claras e performáticas, além de códigos limpos e legíveis.</p>
+    <p class="lead">Sou um dev interessado em construir interfaces claras e performáticas, além de códigos limpos e organizados.</p>
 
     <div class="skills">
       <div class="col">
